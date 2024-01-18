@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="imgs/cute.png" alt="Logo">
+  <img src="imgs/windows.png" alt="Logo">
 </p>
 
 <h1 align="center">random things</h1>
