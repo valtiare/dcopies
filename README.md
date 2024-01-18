@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
   <img src="imgs/cute.png" alt="Logo">
 </p>
@@ -51,7 +51,6 @@ void spawnProcess() {
 
 }
 ```
-````
 
 ## Built With
 
