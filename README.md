@@ -12,8 +12,8 @@
 <div align="center">
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Windows API](https://img.shields.io/badge/Windows%20API-Add%20Your%20Version%20Here-brightgreen)](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
-[![Winsock](https://img.shields.io/badge/Winsock-Add%20Your%20Details%20Here-orange)](https://docs.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page)
+[![Windows API](https://img.shields.io/badge/Windows%20API-brightgreen)](https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
+[![Winsock](https://img.shields.io/badge/Winsock-%20orange)](https://docs.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page)
 
 </div>
 
