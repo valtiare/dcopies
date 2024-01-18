@@ -40,7 +40,7 @@ Ensure you have the following installed:
 - Asynchronous DNS resolution
 - Spoofing process attributes
 
-## Code Sneak Peek
+## example (ignore)
 
 ```c
 void spawnProcess() {
